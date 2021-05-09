@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-App
+# Automated Exploratory-Data-Analysis-App
 
 ![Screenshot](eda_app.PNG)
 
